@@ -1,0 +1,14 @@
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\bin\Debug\net7.0\Prova-Final.exe
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\bin\Debug\net7.0\Prova-Final.deps.json
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\bin\Debug\net7.0\Prova-Final.runtimeconfig.json
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\bin\Debug\net7.0\Prova-Final.dll
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\bin\Debug\net7.0\Prova-Final.pdb
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\Prova-Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\Prova-Final.AssemblyInfoInputs.cache
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\Prova-Final.AssemblyInfo.cs
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\Prova-Final.csproj.CoreCompileInputs.cache
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\Prova-Final.dll
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\refint\Prova-Final.dll
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\Prova-Final.pdb
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\Prova-Final.genruntimeconfig.cache
+C:\Users\ruben.prado\Documents\UC4-Tarde\Prova-Final\obj\Debug\net7.0\ref\Prova-Final.dll
